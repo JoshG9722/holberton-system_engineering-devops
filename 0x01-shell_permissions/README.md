@@ -1,0 +1,1 @@
+Shell permissions, how they work, and what you can do with them.
