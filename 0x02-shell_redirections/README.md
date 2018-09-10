@@ -1,0 +1,1 @@
+These scrips showcase how shell can redirect and filter inputs to a file.
